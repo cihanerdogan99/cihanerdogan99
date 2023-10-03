@@ -6,7 +6,7 @@
 
 📫 How to reach me cihanerdogan64@gmail.com 
 
-⚡ Fun fact I think I have good people skills.
+
 
 
 

@@ -10,8 +10,14 @@
 - 📫 How to reach me **cihanerdogan64@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST: START --> 
+<a href=https://medium.com/@cihanerdo/crm-ve-cltv-customer-relationship-management-ve-customer-lifetime-value-b1f89f4d06e2>BG/NBD ve Gamma-Gamma Modeliyle CLTV Analizi</a>
+<!-- BLOG-POST-LIST: START --> 
+<a href=https://medium.com/@cihanerdo/git-kullanımı-ve-git-reposuna-dosya-gönderimi-127959b58784>Git Kullanımı</a>
+<!-- BLOG-POST-LIST: START --> 
+<a href=https://medium.com/@cihanerdo/linuxtaki-temel-komutlar-ve-erişim-yetkileri-7f1d6b82c>Linux Temel Komutlar</a>
+<!-- BLOG-POST-LIST: END --> 
+<a href=https://medium.com/@cihanerdo/window-functions-ed679e588aaa>SQL Window Functions</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

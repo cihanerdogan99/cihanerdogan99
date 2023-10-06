@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cihan Erdoğan</h1>
 <h3 align="center">From İzmir. I'm focused on data science and trying to improve myself.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cihanerdo&label=Profile%20views&color=0e75b6&style=flat" alt="cihanerdo" /> </p>
+
 
 - 🔭 I’m currently working on **data analysis**
 

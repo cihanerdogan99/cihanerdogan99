@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **data engineering**
 
-- 🌱 I’m currently learning **SQL, Python**
+- 🌱 I’m currently learning **SQL, Python, Docker, GCS, Airflow**
 
 - 📫 How to reach me **cihanerdogan64@gmail.com**
 

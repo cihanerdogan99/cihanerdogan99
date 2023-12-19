@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **data analysis**
+- 🔭 I’m currently working on **data engineering**
 
 - 🌱 I’m currently learning **SQL, Python**
 

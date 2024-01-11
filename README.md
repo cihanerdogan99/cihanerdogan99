@@ -10,6 +10,12 @@
 - 📫 How to reach me **cihanerdogan64@gmail.com**
 
 ### Blogs posts
+<!-- BLOG-POST-LIST: START -->
+<a href=https://medium.com/@cihanerdo/linux-%C3%BCzerinde-apache-airflow-kurulumu-0bfc7436b5f2>Linux Üzerinde Apache Airflow Kurulumu</a>
+<!-- BLOG-POST-LIST: START -->
+<a href=https://medium.com/@cihanerdo/docker-temel-kavramlar-ve-kullan%C4%B1m%C4%B1-049992851cfd>Docker: Temel Kavramlar ve Pratik Kullanımı</a>
+<!-- BLOG-POST-LIST: START -->
+<a href=https://medium.com/@cihanerdo/google-cloudda-postgresql-veritaban%C4%B1-kurulumu-f8430689e55e>Google Cloud’da PostgreSQL Veritabanı Kurulumu</a>
 <!-- BLOG-POST-LIST: START --> 
 <a href=https://medium.com/@cihanerdo/crm-ve-cltv-customer-relationship-management-ve-customer-lifetime-value-b1f89f4d06e2>BG/NBD ve Gamma-Gamma Modeliyle CLTV Analizi</a>
 <!-- BLOG-POST-LIST: START --> 

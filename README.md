@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cihan Erdoğan</h1>
-<h3 align="center">From İzmir. I'm focused on data science and trying to improve myself.</h3>
+<h3 align="center">From İstanbul I'm focused on data science and trying to improve myself.</h3>
 
 
 
